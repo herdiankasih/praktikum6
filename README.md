@@ -7,12 +7,12 @@ Program sederhana operasi kalkulator (penjumlahan, pengurangan, perkalian, dan p
 =>> Alur algoritma :
 
 1. Mulai program.
-2. Masukkan bilangan a dan b.
-3. Masukkan pilihan operasi sebagai berikut,
+2. Masukkan pilihan operasi sebagai berikut,
 	"1" untuk penjumlahan
 	"2" untuk pegurangan
 	"3" untuk perkalian
 	"4" untuk pembagian
+3. Masukkan bilangan a dan b.
 4. Jika input 1 maka hitung hasil=a+b dan cetak hasilnya.
 5. Jika input 2 maka hitung hasil=a-b dan cetak hasilnya.
 6. Jika input 3 maka hitung hasil=a*b dan cetak hasilnya.
